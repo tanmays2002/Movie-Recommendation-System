@@ -1,4 +1,4 @@
 # Movie-Recommendation-System
 https://movie-recommender-tanmayshinde.herokuapp.com/
 
-Worked on tmdb dataset, Handled Text preparation and Feature Engineering. Model Building and Evaluation Deployment on Streamlit
+A Movie Recommendation engine is a tool that suggests movies to users based on their preferences. Our project involved developing a recommendation engine using Natural Language Processing (NLP) and bag of words techniques. We performed text preprocessing to clean and prepare the data for analysis. We then used bag of words to convert text data into numerical representations, which were used to train the recommendation engine. The engine was trained on movie descriptions, genres, and user ratings to learn the preferences of the users. The recommendation engine can now provide personalized suggestions to users based on their viewing history and ratings. With the help of NLP and bag of words, we have created a robust recommendation engine that can enhance the movie-watching experience for users.
